@@ -1,0 +1,14 @@
+{
+  "race": {
+    "laps": 57,
+    "fuel_per_lap": 0.035,
+    "pit_loss": 22.0,
+    "min_compounds": 2,
+    "max_stops": 3
+  },
+  "compounds": {
+    "soft":   { "base": 91.2, "lin": 0.085, "quad": 0.0040, "cliff_age": 16, "cliff_rate": 0.35 },
+    "medium": { "base": 91.8, "lin": 0.055, "quad": 0.0018, "cliff_age": 28, "cliff_rate": 0.30 },
+    "hard":   { "base": 92.4, "lin": 0.035, "quad": 0.0008, "cliff_age": 40, "cliff_rate": 0.25 }
+  }
+}

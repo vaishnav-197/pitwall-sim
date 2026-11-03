@@ -1,0 +1,4 @@
+tyres.json
+/pitwall
+*.test
+coverage.out
